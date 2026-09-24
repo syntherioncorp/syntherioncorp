@@ -2,45 +2,50 @@
 
 # SYNTHERION CORP
 
-**INTELIGÊNCIA ARTIFICIAL · AUTOMAÇÃO · APLICAÇÕES WEB**
+**TECNOLOGIA · INTELIGÊNCIA ARTIFICIAL · APRENDIZADO**
 
-*Transformando ideias em soluções digitais.*
+*Aprendendo hoje para construir as soluções de amanhã.*
 
 </div>
 
 ---
 
-### Sobre
+### Olá! Sou o Lucas 👋
 
-Um espaço para desenvolver, experimentar e evoluir soluções digitais com foco em inteligência artificial, automação e experiências web intuitivas.
+Estou aprendendo a programar e sou entusiasta do mundo da tecnologia e da inteligência artificial. Estou me preparando para cursar **Análise e Desenvolvimento de Sistemas na FATEC Paulínia**.
 
-### Áreas de interesse
+Meu sonho é trabalhar com tecnologia, transformar esse interesse em carreira e construir minha fonte de renda desenvolvendo soluções úteis. Também tenho interesse em explorar a conexão entre inteligência artificial e o mundo financeiro.
 
-| Inteligência artificial | Automação | Aplicações web |
+A **Syntherion Corp** é a identidade que estou construindo para reunir minhas ideias, experimentos e projetos. Este perfil acompanha minha evolução: aprendizado, tentativas, ajustes e novas descobertas.
+
+### O que estou explorando
+
+| Programação | Inteligência artificial | Produtos digitais |
 | :--- | :--- | :--- |
-| Agentes, assistentes e integração de modelos | Fluxos de trabalho e integração entre ferramentas | Interfaces, dashboards e produtos digitais |
+| Aplicações web e fundamentos de desenvolvimento | Agentes, assistentes e automação | Interfaces, dashboards e ferramentas úteis |
 
-### Em desenvolvimento
+### Meu projeto em desenvolvimento
 
 **SYNAPTOMYCETUM LAB**
 
-Laboratório independente de pesquisa e experimentação com inteligência artificial.
+Um laboratório pessoal de pesquisa e experimentação com inteligência artificial, desenvolvido como parte da minha jornada de aprendizado.
 
 `Em desenvolvimento` · `Código privado` · `Syntherion Corp`
 
-A apresentação pública compartilha apenas uma visão geral do projeto. A implementação e a documentação técnica permanecem privadas.
+O projeto ainda não está pronto: há funcionalidades, integrações, testes e melhorias a concluir. Esta página apresenta apenas uma visão geral; o código e os detalhes de implementação ficam em um repositório privado.
 
-### Princípios
+### Minha direção
 
-- **Clareza:** interfaces simples e objetivos bem definidos.
-- **Utilidade:** tecnologia aplicada a problemas reais.
-- **Evolução:** construir, testar, aprender e melhorar.
+- Aprender os fundamentos e evoluir com prática.
+- Construir projetos que resolvam problemas reais.
+- Desenvolver experiência para trabalhar com tecnologia e IA.
+- Transformar ideias em oportunidades profissionais.
 
 ---
 
 <div align="center">
 
 **SYNTHERION CORP**  
-Ideias em evolução.
+Uma ideia de cada vez. Um aprendizado a cada passo.
 
 </div>
