@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**syntherioncorp/syntherioncorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SYNTHERION CORP
 
-Here are some ideas to get you started:
+**INTELIGÊNCIA ARTIFICIAL · AUTOMAÇÃO · APLICAÇÕES WEB**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Transformando ideias em soluções digitais.*
+
+</div>
+
+---
+
+### Sobre
+
+Um espaço para desenvolver, experimentar e evoluir soluções digitais com foco em inteligência artificial, automação e experiências web intuitivas.
+
+### Áreas de interesse
+
+| Inteligência artificial | Automação | Aplicações web |
+| :--- | :--- | :--- |
+| Agentes, assistentes e integração de modelos | Fluxos de trabalho e integração entre ferramentas | Interfaces, dashboards e produtos digitais |
+
+### Em desenvolvimento
+
+**SYNAPTOMYCETUM LAB**
+
+Laboratório independente de pesquisa e experimentação com inteligência artificial.
+
+`Em desenvolvimento` · `Código privado` · `Syntherion Corp`
+
+A apresentação pública compartilha apenas uma visão geral do projeto. A implementação e a documentação técnica permanecem privadas.
+
+### Princípios
+
+- **Clareza:** interfaces simples e objetivos bem definidos.
+- **Utilidade:** tecnologia aplicada a problemas reais.
+- **Evolução:** construir, testar, aprender e melhorar.
+
+---
+
+<div align="center">
+
+**SYNTHERION CORP**  
+Ideias em evolução.
+
+</div>
