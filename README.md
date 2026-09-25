@@ -53,6 +53,32 @@ Um laboratório pessoal de pesquisa e experimentação com inteligência artific
 O projeto ainda não está pronto: há funcionalidades, integrações, testes e melhorias a concluir. Esta página apresenta apenas uma visão geral; o código e os detalhes de implementação ficam em um repositório privado.
 
 
+### Conheça o SYNAPTOMYCETUM LAB
+
+Uma apresentação visual da proposta do laboratório. As cenas ilustram o conceito e a arquitetura planejada de um projeto ainda em desenvolvimento.
+
+#### 01 · Apresentação
+
+![01 — Apresentação do Synaptomycetum Lab](./synaptomycetum-post-01.gif)
+
+#### 02 · O que é o laboratório?
+
+A proposta reúne agentes especializados para pesquisar dados de mercado, combinar análises e registrar resultados.
+
+![02 — O que é o Synaptomycetum Lab](./synaptomycetum-post-02.gif)
+
+#### 03 · Como funciona?
+
+O fluxo proposto passa por dados de mercado, seleção de oportunidades, análise dos agentes, consenso, validação de risco, simulação e memória.
+
+![03 — Fluxo de funcionamento do laboratório](./synaptomycetum-post-03.gif)
+
+#### 04 · O que torna a proposta diferente?
+
+Dividir responsabilidades entre agentes e etapas de validação, com simulação e registro para apoiar futuras melhorias.
+
+![04 — Diferenciais da proposta do laboratório](./synaptomycetum-post-04.gif)
+
 ### Minha direção
 
 
