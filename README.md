@@ -38,65 +38,23 @@ A **Syntherion Corp** é a identidade que estou construindo para reunir minhas i
 | Aplicações web e fundamentos de desenvolvimento | Agentes, assistentes e automação | Interfaces, dashboards e ferramentas úteis |
 
 
-### Meu projeto em desenvolvimento
+### 🚧 Novo projeto em desenvolvimento
 
+**Algo novo está sendo construído.**
 
-**SYNAPTOMYCETUM LAB**
+Uma iniciativa da Syntherion Corp que conecta tecnologia, experiências digitais interativas e inovação, explorando novas possibilidades de interação em ambientes virtuais.
 
+O projeto está em fase de desenvolvimento, com foco em arquitetura, experiência do usuário e construção de suas primeiras funcionalidades.
 
-Um laboratório pessoal de pesquisa e experimentação com inteligência artificial, desenvolvido como parte da minha jornada de aprendizado.
+`Em desenvolvimento` · `Código privado` · `Em breve`
 
-
-`Em desenvolvimento` · `Código privado` · `Syntherion Corp`
-
-
-O projeto ainda não está pronto: há funcionalidades, integrações, testes e melhorias a concluir. Esta página apresenta apenas uma visão geral; o código e os detalhes de implementação ficam em um repositório privado.
-
-
-### Conheça o SYNAPTOMYCETUM LAB
-
-Uma apresentação visual da proposta do laboratório. As cenas ilustram o conceito e a arquitetura planejada de um projeto ainda em desenvolvimento.
-
-#### 01 · Apresentação
-
-![01 — Apresentação do Synaptomycetum Lab](./synaptomycetum-post-01.gif)
-
-#### 02 · O que é o laboratório?
-
-A proposta reúne agentes especializados para pesquisar dados de mercado, combinar análises e registrar resultados.
-
-![02 — O que é o Synaptomycetum Lab](./synaptomycetum-post-02.gif)
-
-#### 03 · Como funciona?
-
-O fluxo proposto passa por dados de mercado, seleção de oportunidades, análise dos agentes, consenso, validação de risco, simulação e memória.
-
-![03 — Fluxo de funcionamento do laboratório](./synaptomycetum-post-03.gif)
-
-#### 04 · O que torna a proposta diferente?
-
-Dividir responsabilidades entre agentes e etapas de validação, com simulação e registro para apoiar futuras melhorias.
-
-![04 — Diferenciais da proposta do laboratório](./synaptomycetum-post-04.gif)
-
-### Minha direção
-
-
-- Aprender os fundamentos e evoluir com prática.
-- Construir projetos que resolvam problemas reais.
-- Desenvolver experiência para trabalhar com tecnologia e IA.
-- Transformar ideias em oportunidades profissionais.
-
+Mais detalhes serão revelados no momento certo. Este é apenas o começo.
 
 ---
 
-
 <div align="center">
 
-
 **SYNTHERION CORP**  
-Uma ideia de cada vez. Um aprendizado a cada passo.
-
+O futuro começa com uma ideia.
 
 </div>
-
